@@ -3,3 +3,4 @@ This is repository with solution of problems in SoftUni course Programming Funda
 Basic Syntax, Conditional Statements and Loops (Lab)
 1.Number Definer
 ![img.png](img.png)
+
