@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea4307c0-796c-4446-bddc-b05582355f28" name="Changes" comment="Update README.md" />
+    <list default="true" id="ea4307c0-796c-4446-bddc-b05582355f28" name="Changes" comment="Update README.md">
+      <change afterPath="$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab (1).docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab/even_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab/largest_of_three_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab/num_between_1_100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab/number_definer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab/patterns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab/practise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab/reverse_word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab/shopping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab (1).docx" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,16 +25,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2F8Bz3brC9oDyglil02iKnXLQPL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -82,8 +97,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Update README.md" />
     <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
   </component>
