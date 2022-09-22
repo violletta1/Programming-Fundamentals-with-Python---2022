@@ -2,10 +2,6 @@
 This is repository with solution of problems in SoftUni course Programming Fundamentals with Python - септември 2022
 
 
-Basic Syntax, Conditional Statements and Loops (Lab)
+Basic Syntax, Conditional Statements and Loops (lab)
 
-
-                    1.Number Definer
-
-![img.png](img.png)
 
