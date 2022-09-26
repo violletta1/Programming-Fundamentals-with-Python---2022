@@ -7,5 +7,3 @@ for i in range(1, num_strings + 1):
         print(f"{string} is not pure!")
     else:
         print(f"{string} is pure.")
-
-
