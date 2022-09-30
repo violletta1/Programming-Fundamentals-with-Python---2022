@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea4307c0-796c-4446-bddc-b05582355f28" name="Changes" comment="Update README.md" />
+    <list default="true" id="ea4307c0-796c-4446-bddc-b05582355f28" name="Changes" comment="Update README.md">
+      <change beforePath="$PROJECT_DIR$/Data Types and Variables/projects/MY_PROJECT.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/MY_PROJECT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Types and Variables/projects/paper_scissors_rock2.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/paper_scissors_rock2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Types and Variables/projects/papper_secors_rock.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/papper_secors_rock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Types and Variables/projects/tank.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/tank.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +29,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\villy\Desktop\PycharmProjects\pythonProject\Programming-Fundamentals-with-Python---2022" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -69,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663866219569</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Update README.md">
+      <created>1664572411477</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664572411478</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,6 +101,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update README.md" />
