@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea4307c0-796c-4446-bddc-b05582355f28" name="Changes" comment="Update README.md">
-      <change afterPath="$PROJECT_DIR$/Lists Basics/Exersice/bread_factory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists Basics/Exersice/easter _gifts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists Basics/Exersice/faro_shuffle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists Basics/Exersice/foodball_card.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists Basics/Exersice/hello_france.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists Basics/Exersice/invert_values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists Basics/Exersice/multiples_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists Basics/Exersice/number_beggars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists Basics/Exersice/remember.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists Basics/Exersice/seize_the_fire.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists Basics/Exersice/survival_of_the_biggest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists Basics/Exersice/multiples_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists Basics/Exersice/multiples_list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +42,7 @@
       <recent name="C:\Users\villy\Desktop\PycharmProjects\pythonProject\Programming-Fundamentals-with-Python---2022" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.invert_values">
+  <component name="RunManager" selected="Python.multiples_list">
     <configuration name="invert_values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-with-Python---2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,6 +77,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists Basics/Lab/list_statistic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multiples_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming-Fundamentals-with-Python---2022" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lists Basics/Exersice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists Basics/Exersice/multiples_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,34 +148,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zoo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programming-Fundamentals-with-Python---2022" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lists Basics/Lab" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists Basics/Lab/zoo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.multiples_list" />
         <item itemvalue="Python.invert_values" />
         <item itemvalue="Python.number_filter" />
         <item itemvalue="Python.search" />
         <item itemvalue="Python.list_statistic" />
-        <item itemvalue="Python.zoo" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664641919325</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Update README.md">
+      <created>1664649581566</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1664649581582</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,6 +268,11 @@
           <url>file://$PROJECT_DIR$/Lists Basics/Exersice/invert_values.py</url>
           <line>3</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lists Basics/Exersice/multiples_list.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
