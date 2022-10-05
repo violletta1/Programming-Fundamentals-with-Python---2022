@@ -12,7 +12,26 @@ for shuffle in range(number_of_shuffles):
     deck_of_cards = final_deck
 print(deck_of_cards)
 
-#
-# a b c d e f g h
-# 5
-# ['a', 'c', 'e', 'g', 'b', 'd', 'f', 'h']
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
