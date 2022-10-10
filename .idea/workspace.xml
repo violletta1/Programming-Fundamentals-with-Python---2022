@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea4307c0-796c-4446-bddc-b05582355f28" name="Changes" comment="Update README.md">
+      <change afterPath="$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab/More Exersice/find_caitals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab/More Exersice/find_the_largest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab/More Exersice/sum_of_beach.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab/More Exersice/wolf_and_sheeps.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists Basics/Exersice/hello_france.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists Basics/Exersice/hello_france.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +45,8 @@
       <recent name="C:\Users\villy\Desktop\PycharmProjects\pythonProject\Programming-Fundamentals-with-Python---2022" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hello_france">
-    <configuration name="easter _gifts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.sum_of_beach">
+    <configuration name="find_caitals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-with-Python---2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,11 +54,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lists Basics/Exersice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab/More Exersice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists Basics/Exersice/easter _gifts.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab/More Exersice/find_caitals.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="easter_giftss" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="find_the_largest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-with-Python---2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lists Basics/Exersice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab/More Exersice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists Basics/Exersice/easter_giftss.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab/More Exersice/find_the_largest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="seize_the_fire" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sum_of_beach" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-with-Python---2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lists Basics/Exersice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab/More Exersice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists Basics/Exersice/seize_the_fire.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab/More Exersice/sum_of_beach.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="wolf_and_sheeps" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-with-Python---2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lists Basics/Exersice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab/More Exersice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists Basics/Exersice/try.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab/More Exersice/wolf_and_sheeps.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sum_of_beach" />
+        <item itemvalue="Python.wolf_and_sheeps" />
+        <item itemvalue="Python.find_caitals" />
+        <item itemvalue="Python.find_the_largest" />
         <item itemvalue="Python.hello_france" />
-        <item itemvalue="Python.seize_the_fire" />
-        <item itemvalue="Python.easter_giftss" />
-        <item itemvalue="Python.try" />
-        <item itemvalue="Python.easter _gifts" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +296,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665397318359</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Update README.md">
+      <created>1665398555873</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1665398555873</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Update README.md">
+      <created>1665398586925</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1665398586925</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -354,6 +371,21 @@
           <url>file://$PROJECT_DIR$/Lists Basics/Exersice/seize_the_fire.py</url>
           <line>4</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab/More Exersice/find_the_largest.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab/More Exersice/wolf_and_sheeps.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab/More Exersice/sum_of_beach.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
