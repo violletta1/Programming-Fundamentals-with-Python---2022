@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea4307c0-796c-4446-bddc-b05582355f28" name="Changes" comment="Update README.md&#10;Initial commit">
-      <change beforePath="$PROJECT_DIR$/Lists Basics/Exersice/try.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists Basics/Exersice/try.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -348,7 +348,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665406338766</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Update README.md&#10;Initial commit">
+      <created>1665411040638</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1665411040638</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
