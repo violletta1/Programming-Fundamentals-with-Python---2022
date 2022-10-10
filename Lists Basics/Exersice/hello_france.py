@@ -1,41 +1,33 @@
-collection = input()
+collection_items = input()
 budget = float(input())
 
-collection_list = collection.split("|")
+bought_products = []
+new_prices = []
 
-clothes_price = 50.00
-shoes_price = 35.00
-accessories_price = 20.50
-saved_sum = 0
-profit_sum = 0
-
-list_buy = []
-
-for x in collection_list:
-    purchase = x.split("->")
-    item = purchase[0]
-    price = float(purchase[1])
-
-    if (item == "Clothes" and price <= clothes_price and price <= budget) or (
-            item == "Shoes" and price <= shoes_price and price <= budget) or \
-            (item == "Accessories" and price <= shoes_price and price <= budget):
-        budget -= price
-        profit_price = price * 1.4
-        saved_sum += profit_price
-        list_buy.append(profit_price)
-        profit_sum += profit_price - price
-    else:
+for item in collection_items.split('|'):
+    tokens = item.split('->')
+    product_type = tokens[0]
+    product_price = float(tokens[1])
+    if product_type == "Clothes" and product_price > 50.00:
         continue
+    if product_type == "Shoes" and product_price > 35.00:
+        continue
+    if product_type == "Accessories" and product_price > 20.50:
+        continue
+    if budget >= product_price:
+        budget -= product_price
+        bought_products.append(product_price)
+        new_prices.append(product_price * 1.4)
 
-saved_sum = saved_sum + budget
+for new_price in new_prices:
+    print(f'{new_price:.2f}', end=' ')
+print('')
 
-for x in list_buy:
-    print(f"{x:.2f}", end=" ")
-print()
-print(f"Profit: {profit_sum:.2f}")
-if saved_sum >= 150:
+profit = sum(new_prices) - sum(bought_products)
+print(f'Profit: {profit:.2f}')
+
+new_budget = budget + sum(new_prices)
+if new_budget >= 150:
     print("Hello, France!")
 else:
-    print("Time to go.")
-    profit_price = price * 1.4
-    profit_sum += profit_price - price
+    print("Not enough money.")
