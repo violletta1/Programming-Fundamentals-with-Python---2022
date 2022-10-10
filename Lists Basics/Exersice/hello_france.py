@@ -38,5 +38,4 @@ if saved_sum >= 150:
 else:
     print("Time to go.")
     profit_price = price * 1.4
-    и
     profit_sum += profit_price - price
