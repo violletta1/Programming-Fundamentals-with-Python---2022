@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea4307c0-796c-4446-bddc-b05582355f28" name="Changes" comment="Update README.md">
-      <change afterPath="$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab/More Exersice/find_caitals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab/More Exersice/find_the_largest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab/More Exersice/sum_of_beach.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab/More Exersice/wolf_and_sheeps.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -310,7 +306,28 @@
       <option name="project" value="LOCAL" />
       <updated>1665398586925</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Update README.md">
+      <created>1665404164697</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1665404164697</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Update README.md">
+      <created>1665404175933</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1665404175933</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Update README.md">
+      <created>1665404696765</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1665404696765</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
